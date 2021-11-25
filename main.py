@@ -6,8 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-    print('Im quite useful! :)')
+    print(f'Hi, {name}, great things is about to start...')  # Press ⌘F8 to toggle the breakpoint.
+
 
 
 # Press the green button in the gutter to run the script.
